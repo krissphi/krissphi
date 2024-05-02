@@ -17,7 +17,7 @@
   ---
   ### :man_technologist: About Me : 
   I am a student from Indonesia
-  ## Just Start Learning 🔥🔥🔥
+  I Just Start Learning 🔥🔥🔥
 </div>
 
 <!--
