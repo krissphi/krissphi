@@ -19,7 +19,8 @@
   ---
   ### :man_technologist: About Me : 
   I am a student from Indonesia,
-  and kripix (from, _keripik_) is the Indonesian word for chips,
+  <br>
+  and kripix (from _keripik_) is the Indonesian word for chips,
   
 
 
@@ -45,7 +46,7 @@
   </div>
 
   ---
-  ## My stats :
+  ## My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kripix&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
   
