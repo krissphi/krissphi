@@ -10,7 +10,6 @@
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
-  <img align="center" src="https://komarev.com/ghpvc/?username=kripix&style=flat-square&color=blue" alt=""/>  
 </div>
 
 <div id="main" align="center">
@@ -44,14 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 
   </div>
-
-  ---
-  ### My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kripix&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kripix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **kripix/kripix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
