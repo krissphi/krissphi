@@ -19,7 +19,11 @@
   ### : About Me : 
   I am a student from Indonesia,
   <br>
-  and kripix (from _keripik_) is the Indonesian word for chips,
+  Kripik or keripik are Indonesian chips or crisps,[1] bite-size snack crackers that can be savoury or sweet. They are made from various dried fruits, tubers, vegetables, and fish that have undergone a deep frying process in hot vegetable oil.[2] They can be lightly seasoned with salt, or spiced with chili powder and sugar.
+
+Together with krupuk, the etymology of the term kripik is believed as an onomatopoeia in Indonesian to describe the crunch sound of this crispy snack.[3]
+
+Kripik (chips) and krupuk (crackers) are an integral part of Indonesian cuisine.[4] Kripik commonly are made from dried slices of roots and tubers. The most popular are kripik singkong (cassava crackers) and kripik pisang (Banana chips); other types of fruit, yam, or tuber crackers are also available.
   
 
 
