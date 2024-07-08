@@ -12,7 +12,7 @@
   </div>
 </div>
 
-<div id="main" align="center">
+<div id="main" align="justify">
 
 
   ---
