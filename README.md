@@ -17,7 +17,7 @@
 
   ---
   ### : About Me : 
-  I am a student from Indonesia,
+
   <br>
   Kripik or keripik are Indonesian chips or crisps,[1] bite-size snack crackers that can be savoury or sweet. They are made from various dried fruits, tubers, vegetables, and fish that have undergone a deep frying process in hot vegetable oil.[2] They can be lightly seasoned with salt, or spiced with chili powder and sugar.
 
