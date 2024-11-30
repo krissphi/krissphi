@@ -6,7 +6,7 @@ Not The Best, But I'll Do My Best
     <a href="https://www.linkedin.com/in/krisna-hadi-prasetya-2a9538286">  
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://instagram.com/kripix.dev">
+    <a href="https://instagram.com/krisss.phy">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
