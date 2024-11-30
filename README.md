@@ -1,4 +1,4 @@
-  # Hi, thanks for coming !
+Not The Best, But I'll Do My Best
 
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/SIpmtvnEsDIAAAAC/rotating-chips.gif" width="100"/>
