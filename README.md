@@ -6,7 +6,7 @@ Currently diving into web and mobile development, with a future goal of masterin
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krisna-hadi-prasetya-2a9538286)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/krisss.phy)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/krissphi)
 
 ### 🚀 My Motto
 **Not The Best, But I'll Do My Best**
