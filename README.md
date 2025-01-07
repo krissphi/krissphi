@@ -14,7 +14,7 @@ Currently diving into web and mobile development, with a future goal of masterin
 ### 💡 Interests
 - Technology Learning
 - Web Development
-- Mobile Appliaction Development
+- Mobile Development
 - Game Development (Future Focus)
 
 ---
